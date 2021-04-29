@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Praneeth, you're probably here because you found me on LinkedIn/KIT website/LAMMPS mailing list. Most of the projects I am working on as of 2021, are academic and strictly confidential. But I intend to at least share some of my smaller scripts here, and also projects that I might work on when I get a break from my Ph.D. work.
+I'm Praneeth, you're probably here because you found me on LinkedIn/KIT website/LAMMPS mailing list. Most of the projects I am working on as of 2021, are academic and strictly confidential, and only available on git.scc.kit.edu.. But I intend to at least share some of my smaller scripts here, and also projects that I might work on when I get a break from my Ph.D. work.
 
 However if you do have any questions about my LAMMPS codes and my work at KIT simply write to me at sp.chila@kit.edu. For other stuff, I am reachable at syamalpraneeth@gmail.com.
 
