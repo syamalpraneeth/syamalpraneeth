@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Praneeth, you're probably here because you found me on LinkedIn/KIT website/LAMMPS mailing list. Most of the projects I am working on as of 2021, are academic and strictly confidential. But I intend to at least share some of my smaller scripts here, and also projects that I might work on when I get a break from my Ph.D. work.
+
+However if you do have any questions about my LAMMPS codes, or my work at KIT, simply write to me at sp.chila@kit.edu, or at syamalpraneeth@gmail.com if it is for career advice.
+
+See you!
+
 <!--
 **syamalpraneeth/syamalpraneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
